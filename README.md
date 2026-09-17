@@ -96,27 +96,6 @@ The IP phones also provide an Ethernet pass-through connection for laptops, allo
 
 ---
 
-## Project Status
-
-> **Status: Work in Progress**
-
----
-
-## Future Work
-
-The remaining work includes:
-
-- Completing the configuration of all departmental LANs
-- Performing end-to-end connectivity testing
-- Verifying DHCP operation across all departments
-- Testing inter-department communication through OSPF
-- Testing IP phone registration and inter-department calling
-- Verifying voice and data VLAN separation
-- Performing final network and VoIP validation
-- Updating the project documentation with the final configuration and results
-
----
-
 ## Project Goals
 
 The main goal of this project is to demonstrate the design of a **scalable and reliable enterprise network** that supports both data communication and IP telephony.
